@@ -3,3 +3,5 @@ import pandas as pd
 def read_data(csv_file):
     df = pd.read_csv(csv_file)
     return df
+    
+# Add a new function
